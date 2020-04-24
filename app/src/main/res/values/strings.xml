@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IntentExercise</string>
+    <string name="btnSend">Send Data</string>
+    <string name="resText">Result text</string>
+</resources>
